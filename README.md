@@ -5,6 +5,7 @@ A UI/UX Developer aspiring to create exciting and effective user experiences.
 ### CarGurus
 Software Engineer Intern | July - December 2022
 - Developed 'Showroom', an internal tool used company-wide to store static and auto-generated information about services/jobs/systems at CarGurus.
+- Assumed a lead role in developing the front-end for a new feature within Showroom that allowed users to add/edit configurations for each service.
 - Created and edited components using React.js, enhancing application functionality.
 - Increased code coverage to 80% by writing tests with React Testing Library.
 
