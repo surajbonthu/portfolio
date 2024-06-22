@@ -2,6 +2,12 @@
 A UI/UX Developer aspiring to create exciting and effective user experiences.
 
 ## Work Experience
+### CarGurus
+Software Engineer Intern | July - December 2022
+- Developed 'Showroom', an internal tool used company-wide to store static and auto-generated information about services/jobs/systems at CarGurus.
+- Created and edited components using React.js, enhancing application functionality.
+- Increased code coverage to 80% by writing tests with React Testing Library.
+
 ### Changeling
 Web Developer | May - August 2021
 - Worked with a team of seven web developers to create an interactive website for the Changeling VR game.
