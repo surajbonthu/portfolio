@@ -26,7 +26,8 @@ Web Application | December 2021 - April 2022
 - Used Node.js and packages such as discord.js, mongoose, and mongoose-events to build the back-end of the application.
 - Used js frameworks such as Konva.js, p5.js, and A-Frame to setup the AR functionality of the application.
 - Used react to develop the front-end of the application.
-- Social Media: 
+- Social Media:
+  - Website - https://designed.cad.rit.edu/nmcapstone/project/arttag 
   - Instagram - https://www.instagram.com/arttag_rit/
   - Facebook - https://www.facebook.com/ArtTag-RIT-101273502460458
   - Demo: https://youtu.be/fPXnCINi3rA
